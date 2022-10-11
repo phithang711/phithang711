@@ -1,14 +1,14 @@
 Hello 👋
 
-My name is Nguyen Phi Thang. Currenly I live in Vietnam. 
+My name is Nguyen Phi Thang. Currenly I live in Taitoku (Tokyo Japan) for language school for a year from 10/2022. 
 
 👩🏻‍💻 I'm an iOS developer. Working with Swift / Objective C. Have N3 JLPT degree and can communicate in English.
 
-📫 If there is a chance for rellocate to Japan or English spoken country. Please reach me from my email: pthang769@gmail.com
+📫 If there is a job partime in Tokyo or fulltime longterm in Japan. Please reach me from my email: pthang.forwork@gmail.com
 
 My linkedin: https://www.linkedin.com/in/nguyen-phi-thang-b36916144/
 
-My stack overflow: https://stackoverflow.com/users/10650407/bewithyou
+My stack overflow: https://stackoverflow.com/users/10650407/bewithyou ( 1k point+ )
 
 My leetcode: https://leetcode.com/pthang769/
 
