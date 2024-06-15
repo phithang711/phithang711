@@ -4,13 +4,15 @@ My name is Nguyen Phi Thang. Currenly I live in Fukuoka Japan.
 
 👩🏻‍💻 I'm a mobile developer. Working with Swift / Objective C/ Flutter. Have N3 JLPT degree and Toeic 905 (Speaking & Listening). Can communicate fluency in English.
 
-📫 If there is a job partime in Tokyo or fulltime longterm in Japan. Please reach me from my email: pthang.forwork@gmail.com
+📫 Working in Japan. Please reach me from my email: pthang.forwork@gmail.com
 
 My linkedin: https://www.linkedin.com/in/nguyen-phi-thang-b36916144/
 
 My stack overflow: https://stackoverflow.com/users/10650407/bewithyou ( 1k7 point+ )
 
 My leetcode: https://leetcode.com/pthang769/
+
+Publisher of new package: https://pub.dev/packages/google_translation (Work with Cloud Translation API)
 
 Github branches: Leetcode project, mini projects in: Swift, Golang.
 
